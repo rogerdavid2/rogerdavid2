@@ -1,5 +1,9 @@
 ### Hi there, I am Roger! 👋
-I am an incoming senior for the Computer Science major at Eastern Washington University
+An incoming Senior for the Computer Science major at Eastern Washington Unversity.
+
+- I am currently working on websites
+- I am currently learning about Algorithms, python, and web design techniques.
+- How to reach me: rogerdavidb57[at]gmail.com
 
 
 
