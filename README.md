@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I am Roger! 👋
+I am an incoming senior for the Computer Science major at Eastern Washington University
+
+
 
 <!--
 **rogerdavid2/rogerdavid2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
